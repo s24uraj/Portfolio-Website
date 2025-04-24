@@ -21,5 +21,5 @@ Check out the live version here:
 - CSS3 (Flexbox & Grid)
 - JavaScript (vanilla JS)
 
-## 📁 Folder Structure
+
 
